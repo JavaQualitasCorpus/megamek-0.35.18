@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="lib/j3dcore.jar"/>
+	<classpathentry kind="lib" path="lib/j3dutils.jar"/>
+	<classpathentry kind="lib" path="lib/Ostermiller.jar"/>
+	<classpathentry kind="lib" path="lib/PngEncoder.jar"/>
+	<classpathentry kind="lib" path="lib/TabPanel.jar"/>
+	<classpathentry kind="lib" path="lib/TinyXML.jar"/>
+	<classpathentry kind="lib" path="lib/vecmath.jar"/>
+	<classpathentry kind="lib" path="packaging_utils/jarbundler-2.1.0.jar"/>
+	<classpathentry kind="lib" path="packaging_utils/launch4j/launch4j.jar"/>
+	<classpathentry kind="lib" path="packaging_utils/launch4j/lib/commons-beanutils.jar"/>
+	<classpathentry kind="lib" path="packaging_utils/launch4j/lib/commons-logging.jar"/>
+	<classpathentry kind="lib" path="packaging_utils/launch4j/lib/forms.jar"/>
+	<classpathentry kind="lib" path="packaging_utils/launch4j/lib/formsrt.jar"/>
+	<classpathentry kind="lib" path="packaging_utils/launch4j/lib/foxtrot.jar"/>
+	<classpathentry kind="lib" path="packaging_utils/launch4j/lib/looks.jar"/>
+	<classpathentry kind="lib" path="packaging_utils/launch4j/lib/xstream.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
